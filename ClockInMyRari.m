@@ -1,7 +1,7 @@
 function clockInMyRari
 %   Clock for the clock-project
 %   Basic Requirements:
-%   - Display the current Natick time
+%   - Display the current Boston time
 %   - Have 3 hands, one for the hour, minute, and second each
 %   - Have at least 4 ticks on the clock (12, 3, 6, and 9) with text labels
     clear;
